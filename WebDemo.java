@@ -6,7 +6,7 @@
  */
 public class WebDemo {
     public static void main(String[] args) {
-        System.out.println("hello world , 2024072811");
+        System.out.println("hello world , 20240728");
     }
 
 }
